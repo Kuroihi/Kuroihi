@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuroihi
 - 👀 I’m interested in IoT and Embedded Systems
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C, C++, and C#
 - 💞️ I’m looking to collaborate on learning everything
 - ⚡ Fun fact: I have no idea what I'm doing
 
